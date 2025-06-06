@@ -1,37 +1,22 @@
-# JupyterLite Demo
+# First Steps
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+Arithmetic operators, variables, data types, basic I/O.  Part of the  [Patchy Python](https://www.youtube.com/@PatchyPython) online course.
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+### View this repository in your browser
 
-## ✨ Try it in your browser ✨
+Click on the badge to open: [![lite-badge](https://github.com/jupyterlite/jupyterlite/blob/main/docs/_static/badge-launch.svg)](https://fsmeraldi.github.io/pp-firststeps/notebooks/?path=First_Steps.ipynb)
 
-➡️ **https://jupyterlite.github.io/demo**
+### The Patchy Python course
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
-
-This template provides the Pyodide kernel (`jupyterlite-pyodide-kernel`), the JavaScript kernel (`jupyterlite-javascript-kernel`), and the p5 kernel (`jupyterlite-p5-kernel`), along with other
-optional utilities and extensions to make the JupyterLite experience more enjoyable. See the
-[`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
-
-For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
+1. [Hello World](https://github.com/fsmeraldi/pp-helloworld)
+2. **First Steps** - this repository
+3. [Collections](https://github.com/fsmeraldi/pp-collections)
+4. [Flow Control](https://github.com/fsmeraldi/pp-flowcontrol)
+5. [File Input/Output](https://github.com/fsmeraldi/pp-files)
+6. [Functions and Modules](https://github.com/fsmeraldi/pp-functions)
+7. [Object Oriented Programming](https://github.com/fsmeraldi/pp-objects)
+8. [Errors and Exceptions](https://github.com/fsmeraldi/pp-exceptions)
+9. [Regular Expressions](https://github.com/fsmeraldi/pp-regexp)
 
 
+(C)2014,2025 [Fabrizio Smeraldi](info@patchypython.com), all rights reserved.
